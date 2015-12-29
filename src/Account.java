@@ -1,6 +1,7 @@
 public abstract class Account {
 
     private int id;
+    private int id1;
     private Status status;
 
     public int getId() {
