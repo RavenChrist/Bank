@@ -3,6 +3,7 @@ public abstract class Account {
     private int id;
     private int id1;
     private int qid1;
+    private int qqid1;
     private Status status;
 
     public int getId() {
